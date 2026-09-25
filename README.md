@@ -8,6 +8,7 @@ Atividade de Apresentação - Quem Somos!
 
 Perguntas e Respostas da Planilha de Cabeças de Gados
 -
+https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Cabe%C3%A7a%20de%20Gado.csv
 <img width="1277" height="402" alt="Perguntas e Respostas de Gado" src="https://github.com/user-attachments/assets/6784a24e-a2ad-42e7-a0cc-6f2fae4def6a" />
 
 
