@@ -24,4 +24,5 @@ Atividade de Contagem de COTM por por Cidade - Editado
 
 Soma dos Índices Sazonais
 -
+https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Perguntas%20e%20Respostas%20Soma%20dos%20%C3%8Dndices%20Sazonais.pbix
 <img width="1322" height="746" alt="Soma dos Indices Sazonais" src="https://github.com/user-attachments/assets/ecde2a80-e415-47fe-88ec-339b91749841" />
