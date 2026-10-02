@@ -4,6 +4,7 @@ Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJC
 Atividade de Apresentação - Quem Somos!
 -
 Olá, meu nome é Renan, sou aluno da turma GPI na FATEC. Participar deste trabalho em grupo foi uma experiência engraçada e de muito aprendizado, troca de ideias e cooperação. Nos dedicamos para fazer um trabalho de Apresentação pessoal que fosse entreter e falar como nós somos para os colegas de classe.
+<p style="color🔹;">
 
  <img width="1211" height="680" alt="QUEM SOMOS" src="https://github.com/user-attachments/assets/c1b513d5-a731-4ed6-9f9f-e99b5aecd837" />
 
@@ -11,7 +12,6 @@ Olá, meu nome é Renan, sou aluno da turma GPI na FATEC. Participar deste traba
 Perguntas e Respostas da Planilha de Cabeças de Gados
 -
 No meu trabalho, analisei dados da pecuária brasileira através de um gráfico de pizza. Os dados mostram que os Galináceos representam 74% do total, com mais de 2 bilhões de cabeças, sendo a maior criação do país, enquanto os Caprinos apresentam o menor número. O objetivo foi interpretar esses números e mostrar a predominância da avicultura no Brasil.
-<p style="color:red;">Texto vermelho</p>
 
 https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Cabe%C3%A7a%20de%20Gado.csv
  
