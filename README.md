@@ -11,7 +11,8 @@ Olá, meu nome é Renan, sou aluno da turma GPI na FATEC. Participar deste traba
 Perguntas e Respostas da Planilha de Cabeças de Gados
 -
 No meu trabalho, analisei dados da pecuária brasileira através de um gráfico de pizza. Os dados mostram que os Galináceos representam 74% do total, com mais de 2 bilhões de cabeças, sendo a maior criação do país, enquanto os Caprinos apresentam o menor número. O objetivo foi interpretar esses números e mostrar a predominância da avicultura no Brasil.
- https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Cabe%C3%A7a%20de%20Gado.csv
+
+https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Cabe%C3%A7a%20de%20Gado.csv
  
 <img width="1277" height="402" alt="Perguntas e Respostas de Gado" src="https://github.com/user-attachments/assets/6784a24e-a2ad-42e7-a0cc-6f2fae4def6a" />
 
@@ -33,6 +34,7 @@ Nesse trabalho eu fiquei responsável por editar e decorar o mapa da ANTT sobre 
 Soma dos Índices Sazonais
 -
 Eu organizei os dados do índice de produção industrial do Brasil, e arrumei as perguntas e respostas, destaquei o maior índice que foi 358,25 em 2016 e o menor que foi 9,39 em 2020, e deixei o gráfico de barras mais claro e fácil de entender. Organizei por cores e deixei tudo mais bonito pra apresentar na aula, mostrando a comparação entre os segmentos da indústria.
+
  https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Perguntas%20e%20Respostas%20Soma%20dos%20%C3%8Dndices%20Sazonais.pbix
  
 <img width="1322" height="746" alt="Soma dos Indices Sazonais" src="https://github.com/user-attachments/assets/ecde2a80-e415-47fe-88ec-339b91749841" />
