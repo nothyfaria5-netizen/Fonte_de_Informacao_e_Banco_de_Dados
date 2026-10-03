@@ -1,13 +1,13 @@
 # Fonte_de_Informacao_e_Banco_de_Dados
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJC
 
+
 Atividade de Apresentação - Quem Somos!
 -
 *Olá, meu nome é Renan, sou aluno da turma GPI na FATEC. Participar deste trabalho em grupo foi uma experiência engraçada e de muito aprendizado, troca de ideias e cooperação. Nos dedicamos para fazer um trabalho de Apresentação pessoal que fosse entreter e falar como nós somos para os colegas de classe.*
 
  <img width="1211" height="680" alt="QUEM SOMOS" src="https://github.com/user-attachments/assets/c1b513d5-a731-4ed6-9f9f-e99b5aecd837" />
 
-_______________________________________________________________________________________
 
 Perguntas e Respostas da Planilha de Cabeças de Gados
 -
@@ -17,7 +17,6 @@ https://github.com/nothyfaria5-netizen/Fonte_de_Informacao_e_Banco_de_Dados/blob
  
 <img width="1277" height="402" alt="Perguntas e Respostas de Gado" src="https://github.com/user-attachments/assets/6784a24e-a2ad-42e7-a0cc-6f2fae4def6a" />
 
-_______________________________________________________________________________________
 
 Atividade de Contagem de COTM por Cidade
 -
