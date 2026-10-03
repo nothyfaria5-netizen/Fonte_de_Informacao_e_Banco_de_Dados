@@ -5,7 +5,7 @@ Atividade de Apresentação - Quem Somos!
 -
 *Olá, meu nome é Renan, sou aluno da turma GPI na FATEC. Participar deste trabalho em grupo foi uma experiência engraçada e de muito aprendizado, troca de ideias e cooperação. Nos dedicamos para fazer um trabalho de Apresentação pessoal que fosse entreter e falar como nós somos para os colegas de classe.*
 
- <img width="1211" height="680" alt="QUEM SOMOS" src="https://github.com/user-attachments/assets/c1b513d5-a731-4ed6-9f9f-e99b5aecd837" />
+<img width="1211" height="680" alt="QUEM SOMOS" src="https://github.com/user-attachments/assets/c1b513d5-a731-4ed6-9f9f-e99b5aecd837" />
 
 
 Perguntas e Respostas da Planilha de Cabeças de Gados
@@ -19,14 +19,14 @@ Atividade de Contagem de COTM por Cidade
 -
 *Meu trabalho analisa o mapa de distribuição de Empresas Multimodais da ANTT por cidade. O levantamento registra 273 ocorrências, com grande concentração na região Sudeste e pontos distribuídos pelo país, mostrando onde o transporte multimodal é mais presente no Brasil.*
 
- <img width="1303" height="730" alt="PRINT MULTMODAIS 1" src="https://github.com/user-attachments/assets/70677c62-a271-4d6d-9dbf-bb00bedbced8" />
+<img width="1920" height="1080" alt="ANTT - EMPRESAS MULTIMODAIS 1" src="https://github.com/user-attachments/assets/103da602-6f2e-4d60-8297-b29457201bb9" />
 
 
 Atividade de Contagem de COTM por por Cidade - Editado
 -
 *Nesse trabalho eu fiquei responsável por editar e decorar o mapa da ANTT sobre as Empresas Multimodais. Eu organizei as cores por país de origem, coloquei em destaque o total de 272 registros e deixei o layout mais claro e bonito pra apresentar. Dá pra ver bem que a maioria das empresas tá concentrada no Brasil, principalmente aqui no Sudeste.*
 
- <img width="1415" height="801" alt="PRINT MULTMODAIS 2" src="https://github.com/user-attachments/assets/ce28f4c2-5457-42cd-b345-abb820eaa565" />
+<img width="1920" height="1080" alt="ANTT - EMPRESAS MULTIMODAIS 2" src="https://github.com/user-attachments/assets/44427754-d2c6-42c8-8c18-4dcea9a065ba" />
 
 
 Soma dos Índices Sazonais
