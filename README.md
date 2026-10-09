@@ -34,3 +34,10 @@ Soma dos Índices Sazonais
 *Eu organizei os dados do índice de produção industrial do Brasil, e arrumei as perguntas e respostas, destaquei o maior índice que foi 358,25 em 2016 e o menor que foi 9,39 em 2020, e deixei o gráfico de barras mais claro e fácil de entender. Organizei por cores e deixei tudo mais bonito pra apresentar na aula, mostrando a comparação entre os segmentos da indústria.*
  
 <img width="1322" height="746" alt="Soma dos Indices Sazonais" src="https://github.com/user-attachments/assets/ecde2a80-e415-47fe-88ec-339b91749841" />
+
+
+Aplicação do Power BI para Aprimoramento
+-
+*Concluí pela Escola Nacional de Administração Pública - ENAP o curso de Aplicação do Power BI para Aprimoramento da Gestão (Turma SET/2026).*
+
+<img width="1125" height="679" alt="Certificado Power BI" src="https://github.com/user-attachments/assets/e5c001ce-22f2-4423-8f21-7bcd7d43f877" />
