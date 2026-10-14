@@ -46,3 +46,5 @@ Aplicação do Power BI para Aprimoramento
 CARGAR: Mapeamento das Empresas Multimodais por UF
 -
 *Dashboard em Power BI com dados da ANTT de empresas multimodais (CARGAS). O mapa mostra a distribuição das empresas pelo Brasil e, ao clicar na bandeira do estado na lateral, o mapa dá foco e filtra só as empresas daquele estado.*
+
+<img width="1524" height="848" alt="Imagem ANTT- Cargas e Empresas Multimodais" src="https://github.com/user-attachments/assets/b3ba2bef-e8ad-42fe-be84-59868c3af786" />
