@@ -41,3 +41,10 @@ Aplicação do Power BI para Aprimoramento
 *Concluí pela Escola Nacional de Administração Pública - ENAP o curso de Aplicação do Power BI para Aprimoramento da Gestão (Turma SET/2026).*
 
 <img width="1125" height="679" alt="Certificado Power BI" src="https://github.com/user-attachments/assets/e5c001ce-22f2-4423-8f21-7bcd7d43f877" />
+
+
+CARGAR: Mapeamento das Empresas Multimodais por UF
+-
+*Dashboard em Power BI com dados da ANTT de empresas multimodais (CARGAR). O mapa mostra a distribuição das empresas pelo Brasil e, ao clicar na bandeira do estado na lateral, o mapa dá foco e filtra só as empresas daquele estado.*
+
+<img width="1340" height="754" alt="Imagem Antt Cargas e Empresas Multimodais" src="https://github.com/user-attachments/assets/242edd50-0964-4b35-b0d3-3c5f29eb05c6" />
