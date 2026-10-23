@@ -48,3 +48,11 @@ CARGAR: Mapeamento das Empresas Multimodais por UF
 *Dashboard em Power BI com dados da ANTT de empresas multimodais (CARGAS). O mapa mostra a distribuição das empresas pelo Brasil e, ao clicar na bandeira do estado na lateral, o mapa dá foco e filtra só as empresas daquele estado.*
 
 <img width="1524" height="848" alt="Imagem ANTT- Cargas e Empresas Multimodais" src="https://github.com/user-attachments/assets/b3ba2bef-e8ad-42fe-be84-59868c3af786" />
+
+
+Primira Sprint - Equipe Antenados (GPI 1º Semestre)
+-
+*O projeto da Sprint 1 criou uma base de dados sobre telecom em São José dos Campos usando a RAIS (2020-2025). Os dados foram cruzados no BigQuery e organizados no Power BI, mostrando que o setor tem em média 2,4 mil empregos e está concentrado na zona sul da cidade.*
+
+<img width="1058" height="594" alt="Captura de tela 2026-10-23 113353" src="https://github.com/user-attachments/assets/80b57ab3-d5f9-4bf6-8da6-51a88a68ff03" />
+
