@@ -56,11 +56,13 @@ Primira Sprint - Equipe Antenados (GPI 1º Semestre)
 
 <img width="1058" height="594" alt="Captura de tela 2026-10-23 113353" src="https://github.com/user-attachments/assets/80b57ab3-d5f9-4bf6-8da6-51a88a68ff03" />
 
+
 Temperatura x Receita: O Que o Calor Faz com as Vendas
 -
 *Regressão linear no Excel mostrando que a temperatura impacta diretamente a receita: a cada 1 °C a mais, as vendas sobem cerca de R$ 20,89 em média (R² ≈ 0,86). Alguns outliers com receita zerada merecem investigação.*
 
-<img width="1158" height="676" alt="Captura de tela 2026-11-07 002416" src="https://github.com/user-attachments/assets/f714e18b-a257-4ec9-a3aa-5d4090745eb1" />
+<img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/31b6e939-2864-4b90-b038-9b0c71df15a4" />
+
 
 Ice Cream Revenue Regression
 -
