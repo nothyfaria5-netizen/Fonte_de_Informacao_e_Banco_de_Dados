@@ -61,3 +61,9 @@ Temperatura x Receita: O Que o Calor Faz com as Vendas
 *Regressão linear no Excel mostrando que a temperatura impacta diretamente a receita: a cada 1 °C a mais, as vendas sobem cerca de R$ 20,89 em média (R² ≈ 0,86). Alguns outliers com receita zerada merecem investigação.*
 
 <img width="1158" height="676" alt="Captura de tela 2026-11-07 002416" src="https://github.com/user-attachments/assets/f714e18b-a257-4ec9-a3aa-5d4090745eb1" />
+
+Ice Cream Revenue Regression
+-
+*Estudo da relação entre temperatura e receita de sorvete usando regressão linear, Python e Google Colab.*
+
+<img width="1103" height="731" alt="Captura de tela 2026-11-07 012346" src="https://github.com/user-attachments/assets/f2acf880-1a4a-43e2-a93a-97d5ca037685" />
