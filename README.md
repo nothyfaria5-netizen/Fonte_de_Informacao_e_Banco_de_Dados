@@ -56,3 +56,9 @@ Primira Sprint - Equipe Antenados (GPI 1º Semestre)
 
 <img width="1058" height="594" alt="Captura de tela 2026-10-23 113353" src="https://github.com/user-attachments/assets/80b57ab3-d5f9-4bf6-8da6-51a88a68ff03" />
 
+
+Temperatura x Receita de Sorvete: uma relação linear
+-
+*Correlação positiva e quase linear entre temperatura e receita de vendas de sorvete, ideal para ilustrar regressão linear em Python.*
+
+<img width="1767" height="788" alt="Captura de tela 2026-11-07 000345" src="https://github.com/user-attachments/assets/779622d0-e689-4921-a40c-bbdca5c8b299" />
