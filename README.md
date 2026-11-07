@@ -60,5 +60,3 @@ Primira Sprint - Equipe Antenados (GPI 1º Semestre)
 Temperatura x Receita de Sorvete: uma relação linear
 -
 *Correlação positiva e quase linear entre temperatura e receita de vendas de sorvete, ideal para ilustrar regressão linear em Python.*
-
-<img width="1767" height="788" alt="Captura de tela 2026-11-07 000345" src="https://github.com/user-attachments/assets/779622d0-e689-4921-a40c-bbdca5c8b299" />
