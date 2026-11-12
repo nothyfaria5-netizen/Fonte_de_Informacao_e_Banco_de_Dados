@@ -69,3 +69,10 @@ Ice Cream Revenue Regression
 *Estudo da relação entre temperatura e receita de sorvete usando regressão linear, Python e Google Colab.*
 
 <img width="1103" height="731" alt="Captura de tela 2026-11-07 012346" src="https://github.com/user-attachments/assets/f2acf880-1a4a-43e2-a93a-97d5ca037685" />
+
+Comparação da Expectativa de Vida entre Países – 2023
+-
+*Este dashboard apresenta uma comparação da expectativa de vida de dez países no ano de 2023. Nele, podemos observar os países com maior e menor expectativa de vida, além da média entre todos eles. Os gráficos e a tabela ajudam a visualizar e comparar os resultados de forma simples, facilitando o entendimento das diferenças entre os países.*
+
+<img width="995" height="559" alt="WhatsApp Image 2026-11-07 at 19 09 29" src="https://github.com/user-attachments/assets/1e7c8737-86a2-46bd-b36b-c9a2c01c7ee8" />
+
