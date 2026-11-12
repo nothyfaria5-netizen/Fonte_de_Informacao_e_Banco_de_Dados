@@ -15,14 +15,14 @@ Perguntas e Respostas da Planilha de Cabeças de Gados
 <img width="1277" height="402" alt="Perguntas e Respostas de Gado" src="https://github.com/user-attachments/assets/6784a24e-a2ad-42e7-a0cc-6f2fae4def6a" />
 
 
-Atividade de Contagem de COTM por Cidade
+Atividade de Contagem de Empresas Multimodais por Cidade
 -
 *Meu trabalho analisa o mapa de distribuição de Empresas Multimodais da ANTT por cidade. O levantamento registra 273 ocorrências, com grande concentração na região Sudeste e pontos distribuídos pelo país, mostrando onde o transporte multimodal é mais presente no Brasil.*
 
 <img width="1920" height="1080" alt="ANTT - EMPRESAS MULTIMODAIS 1" src="https://github.com/user-attachments/assets/103da602-6f2e-4d60-8297-b29457201bb9" />
 
 
-Atividade de Contagem de COTM por por Cidade - Editado
+Atividade de Contagem de Empresas Multimodais por por Cidade - Editado
 -
 *Nesse trabalho eu fiquei responsável por editar e decorar o mapa da ANTT sobre as Empresas Multimodais. Eu organizei as cores por país de origem, coloquei em destaque o total de 272 registros e deixei o layout mais claro e bonito pra apresentar. Dá pra ver bem que a maioria das empresas tá concentrada no Brasil, principalmente aqui no Sudeste.*
 
