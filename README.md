@@ -74,5 +74,5 @@ Comparação da Expectativa de Vida entre Países – 2023
 -
 *Este dashboard apresenta uma comparação da expectativa de vida de dez países no ano de 2023. Nele, podemos observar os países com maior e menor expectativa de vida, além da média entre todos eles. Os gráficos e a tabela ajudam a visualizar e comparar os resultados de forma simples, facilitando o entendimento das diferenças entre os países.*
 
-<img width="995" height="559" alt="WhatsApp Image 2026-11-07 at 19 09 29" src="https://github.com/user-attachments/assets/1e7c8737-86a2-46bd-b36b-c9a2c01c7ee8" />
+<img width="978" height="531" alt="WhatsApp Image 2026-11-07 at 19 09 29" src="https://github.com/user-attachments/assets/4c577782-6f42-47d5-b04a-8a3e0377e9ab" />
 
