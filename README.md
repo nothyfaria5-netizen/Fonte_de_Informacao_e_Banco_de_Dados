@@ -43,9 +43,9 @@ Aplicação do Power BI para Aprimoramento
 <img width="1125" height="679" alt="Certificado Power BI" src="https://github.com/user-attachments/assets/e5c001ce-22f2-4423-8f21-7bcd7d43f877" />
 
 
-CARGAR: Mapeamento das Empresas Multimodais por UF
+Mapeamento das Empresas Multimodais por UF
 -
-*Dashboard em Power BI com dados da ANTT de empresas multimodais (CARGAS). O mapa mostra a distribuição das empresas pelo Brasil e, ao clicar na bandeira do estado na lateral, o mapa dá foco e filtra só as empresas daquele estado.*
+*Dashboard em Power BI com dados da ANTT de empresas multimodais (CARGAS). O mapa mostra a distribuição das empresas pelo Brasil e, ao clicar na bandeira do estado na lateral, o mapa dá foco e filtra só as empresas daquele estado. (Aula Online)*
 
 <img width="1524" height="848" alt="Imagem ANTT- Cargas e Empresas Multimodais" src="https://github.com/user-attachments/assets/b3ba2bef-e8ad-42fe-be84-59868c3af786" />
 
