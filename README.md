@@ -50,13 +50,6 @@ Mapeamento das Empresas Multimodais por UF
 <img width="1524" height="848" alt="Imagem ANTT- Cargas e Empresas Multimodais" src="https://github.com/user-attachments/assets/b3ba2bef-e8ad-42fe-be84-59868c3af786" />
 
 
-Primira Sprint - Equipe Antenados (GPI 1º Semestre)
--
-*O projeto da Sprint 1 criou uma base de dados sobre telecom em São José dos Campos usando a RAIS (2020-2025). Os dados foram cruzados no BigQuery e organizados no Power BI, mostrando que o setor tem em média 2,4 mil empregos e está concentrado na zona sul da cidade.*
-
-<img width="1058" height="594" alt="Captura de tela 2026-10-23 113353" src="https://github.com/user-attachments/assets/80b57ab3-d5f9-4bf6-8da6-51a88a68ff03" />
-
-
 Temperatura x Receita: O Que o Calor Faz com as Vendas
 -
 *Regressão linear no Excel mostrando que a temperatura impacta diretamente a receita: a cada 1 °C a mais, as vendas sobem cerca de R$ 20,89 em média (R² ≈ 0,86). Alguns outliers com receita zerada merecem investigação.*
