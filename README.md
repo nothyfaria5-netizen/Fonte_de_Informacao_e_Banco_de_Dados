@@ -52,7 +52,7 @@ Mapeamento das Empresas Multimodais por UF
 
 Temperatura x Receita: O Que o Calor Faz com as Vendas
 -
-*Regressão linear no Excel mostrando que a temperatura impacta diretamente a receita: a cada 1 °C a mais, as vendas sobem cerca de R$ 20,89 em média (R² ≈ 0,86). Alguns outliers com receita zerada merecem investigação.*
+*Regressão linear no Excel mostrando que a temperatura impacta diretamente a receita: a cada 1 °C a mais, as vendas sobem cerca de R$ 20,89 em média.*
 
 <img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/31b6e939-2864-4b90-b038-9b0c71df15a4" />
 
