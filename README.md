@@ -76,3 +76,8 @@ Investimentos Captados
 
 <img width="1418" height="780" alt="Print - Investimentos" src="https://github.com/user-attachments/assets/c8944ce6-4084-43ae-9d38-072030fc0b1e" />
 
+Gráfico no Excel de dispersão que compara as médias dos homens e das mulheres.
+-
+*O gráfico apresenta uma comparação entre a média dos homens e das mulheres. Podemos observar que os homens possuem médias maiores que as mulheres. Além disso, os pontos mostram uma tendência crescente, indicando que, conforme a média dos homens aumenta, a das mulheres também tende a aumentar. A linha de tendência ajuda a visualizar essa relação entre os dados.*
+
+<img width="1537" height="755" alt="Excel" src="https://github.com/user-attachments/assets/66d98f0f-da45-4ee1-9ec6-87c61a9bd0c1" />
