@@ -69,3 +69,10 @@ Comparação da Expectativa de Vida entre Países – 2023
 
 <img width="978" height="531" alt="WhatsApp Image 2026-11-07 at 19 09 29" src="https://github.com/user-attachments/assets/4c577782-6f42-47d5-b04a-8a3e0377e9ab" />
 
+Investimentos Captados
+-
+
+*O dashboard apresenta a distribuição das empresas-alvo por setor econômico e município. Podemos observar que São Paulo possui a maior concentração de empresas e que o setor de Serviços se destaca, seguido pelo Comércio. Os gráficos, o mapa e os filtros facilitam a visualização e a comparação dos dados.*
+
+<img width="1418" height="780" alt="Print - Investimentos" src="https://github.com/user-attachments/assets/c8944ce6-4084-43ae-9d38-072030fc0b1e" />
+
