@@ -82,3 +82,10 @@ Gráfico no Excel de dispersão que compara as médias dos homens e das mulheres
 *O gráfico apresenta uma comparação entre a média dos homens e das mulheres. Podemos observar que os homens possuem médias maiores que as mulheres. Além disso, os pontos mostram uma tendência crescente, indicando que, conforme a média dos homens aumenta, a das mulheres também tende a aumentar. A linha de tendência ajuda a visualizar essa relação entre os dados.*
 
 <img width="1537" height="755" alt="Excel" src="https://github.com/user-attachments/assets/66d98f0f-da45-4ee1-9ec6-87c61a9bd0c1" />
+
+
+Análise dos Investimentos no Estado de São Paulo
+-
+*Essa planilha mostra os investimentos anunciados no estado de São Paulo ao longo dos anos. Nela, podemos identificar as empresas, os municípios, as regiões e os setores que receberam investimentos. Com esses dados, conseguimos analisar onde estão acontecendo mais investimentos e entender melhor o desenvolvimento econômico das diferentes regiões.*
+
+<img width="1920" height="1080" alt="Print tabela" src="https://github.com/user-attachments/assets/7d5d53c7-a63e-4608-a8ea-2d5e0d8f064e" />
