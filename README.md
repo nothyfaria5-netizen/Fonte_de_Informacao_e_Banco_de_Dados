@@ -69,7 +69,7 @@ Comparação da Expectativa de Vida entre Países – 2023
 
 <img width="978" height="531" alt="WhatsApp Image 2026-11-07 at 19 09 29" src="https://github.com/user-attachments/assets/4c577782-6f42-47d5-b04a-8a3e0377e9ab" />
 
-Investimentos Captados
+Investimentos Captados por Setor
 -
 
 *O dashboard apresenta a distribuição das empresas-alvo por setor econômico e município. Podemos observar que São Paulo possui a maior concentração de empresas e que o setor de Serviços se destaca, seguido pelo Comércio. Os gráficos, o mapa e os filtros facilitam a visualização e a comparação dos dados.*
@@ -78,6 +78,7 @@ Investimentos Captados
 
 Gráfico no Excel de dispersão que compara as médias dos homens e das mulheres.
 -
+
 *O gráfico apresenta uma comparação entre a média dos homens e das mulheres. Podemos observar que os homens possuem médias maiores que as mulheres. Além disso, os pontos mostram uma tendência crescente, indicando que, conforme a média dos homens aumenta, a das mulheres também tende a aumentar. A linha de tendência ajuda a visualizar essa relação entre os dados.*
 
 <img width="1537" height="755" alt="Excel" src="https://github.com/user-attachments/assets/66d98f0f-da45-4ee1-9ec6-87c61a9bd0c1" />
