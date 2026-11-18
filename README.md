@@ -90,3 +90,10 @@ Análise dos Investimentos no Estado de São Paulo
 *Essa planilha mostra os investimentos anunciados no estado de São Paulo ao longo dos anos. Nela, podemos identificar as empresas, os municípios, as regiões e os setores que receberam investimentos. Com esses dados, conseguimos analisar onde estão acontecendo mais investimentos e entender melhor o desenvolvimento econômico das diferentes regiões.*
 
 <img width="1920" height="1080" alt="Print tabela" src="https://github.com/user-attachments/assets/7d5d53c7-a63e-4608-a8ea-2d5e0d8f064e" />
+
+Relação entre Horas de Estudo e Nota da Prova
+-
+*O gráfico apresenta a relação entre as horas de estudo e a pontuação obtida na prova. É possível perceber que os alunos que estudaram por mais tempo geralmente conseguiram notas maiores, mostrando que o tempo de estudo pode influenciar no desempenho.*
+
+<img width="1016" height="525" alt="image" src="https://github.com/user-attachments/assets/b1955c2b-337a-4626-acb6-29fb6edda4f6" />
+
