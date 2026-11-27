@@ -78,14 +78,14 @@ Relação entre Horas de Estudo e Nota da Prova
 <img width="1016" height="525" alt="image" src="https://github.com/user-attachments/assets/b1955c2b-337a-4626-acb6-29fb6edda4f6" />
 
 
-Investimentos Captados por Setor
+Investimentos Captados por Setor | Prova
 -
 
 *O dashboard apresenta a distribuição das empresas-alvo por setor econômico e município. Podemos observar que São Paulo possui a maior concentração de empresas e que o setor de Serviços se destaca, seguido pelo Comércio. Os gráficos, o mapa e os filtros facilitam a visualização e a comparação dos dados.*
 
 <img width="1418" height="780" alt="Print - Investimentos" src="https://github.com/user-attachments/assets/c8944ce6-4084-43ae-9d38-072030fc0b1e" />
 
-Gráfico no Excel de dispersão que compara as médias dos homens e das mulheres.
+Gráfico no Excel de dispersão que compara as médias dos homens e das mulheres | Prova
 -
 
 *O gráfico apresenta uma comparação entre a média dos homens e das mulheres. Podemos observar que os homens possuem médias maiores que as mulheres. Além disso, os pontos mostram uma tendência crescente, indicando que, conforme a média dos homens aumenta, a das mulheres também tende a aumentar. A linha de tendência ajuda a visualizar essa relação entre os dados.*
@@ -93,7 +93,7 @@ Gráfico no Excel de dispersão que compara as médias dos homens e das mulheres
 <img width="1537" height="755" alt="Excel" src="https://github.com/user-attachments/assets/66d98f0f-da45-4ee1-9ec6-87c61a9bd0c1" />
 
 
-Análise dos Investimentos no Estado de São Paulo
+Análise dos Investimentos no Estado de São Paulo | Prova
 -
 *Essa planilha mostra os investimentos anunciados no estado de São Paulo ao longo dos anos. Nela, podemos identificar as empresas, os municípios, as regiões e os setores que receberam investimentos. Com esses dados, conseguimos analisar onde estão acontecendo mais investimentos e entender melhor o desenvolvimento econômico das diferentes regiões.*
 
